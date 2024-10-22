@@ -6,7 +6,7 @@ Welcome to my **Learn C Programming** course! This course is designed to help me
 
 ## Why (A)I Made This Course
 
-I’ve always been passionate about security and understanding the low-level details of how systems work. Learning C is crucial because it gives you the power to interact with memory, understand how the operating system works, and create efficient programs. Since I wanted to enhance my skills with a practical focus, I asked AI to help me design this course specifically tailored to my needs.
+I’m passionate about security and understanding the low-level details of how systems work. Learning C is crucial because it gives you the power to interact with memory, understand how the operating system works, and create efficient programs. Since I wanted to enhance my skills with a practical focus, I asked AI to help me design this course specifically tailored to my needs.
 
 This journey is more than just learning syntax; it’s about learning to think like a systems programmer and security expert. Whether it’s managing memory safely, writing optimized code, or understanding potential vulnerabilities in code, this course will take me through the steps to build that knowledge.
 
